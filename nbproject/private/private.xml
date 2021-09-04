@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/View/MainScene.fxml</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Model/Product.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/ModifyPartController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Model/Part.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/AddPartController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/InventoryController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Model/InHouse.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/ModifyProductController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/View/AddPartScene.fxml</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/View/ModifyProductScene.fxml</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/View/ModifyPartScene.fxml</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Main/Main.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/AddProductController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Controller/MainSceneController.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Model/Inventory.java</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/View/AddProductScene.fxml</file>
+            <file>file:/V:/Dev/Java/Projects/InventoryManagementSystem/src/Model/Outsourced.java</file>
+        </group>
+    </open-files>
+</project-private>
